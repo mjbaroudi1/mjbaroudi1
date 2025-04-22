@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mjbaroudi1
 - 👀 I’m interested in Biotech
 - 🌱 I’m currently learning more coding
-- 💞️ I’m looking to collaborate on biosensors
+- 💞️ I’m looking to collaborate on Cancer biosensors
 - 📫 How to reach me mjbaroudi06@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I like dogs
